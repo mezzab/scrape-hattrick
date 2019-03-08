@@ -6,7 +6,7 @@ const cantLigas = 256;
 const cantBotsMinima = 2;
 
 const urlBuilder = number =>
-  `https://www93.hattrick.org/World/Series/?LeagueLevelUnitID=${number}`;
+  `https://www.hattrick.org/World/Series/?LeagueLevelUnitID=${number}`;
 
 for (i = 0; i < cantLigas; i++) {
   const numeroLiga = i + 1;
