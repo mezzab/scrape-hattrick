@@ -8,6 +8,7 @@ The script searches for a league with more than one bot, so you can move with a 
 
 ## How to use?
 
+You can modify the configuration variables, in order to perform the search you want.
+
 - `yarn`
 - `yarn scrape`
-  You can change the initiation variables in index.js
